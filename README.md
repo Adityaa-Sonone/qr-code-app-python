@@ -31,14 +31,11 @@ Whether you need to share a link, email, Wi-Fi credentials, or event info — th
 
 ---
 
-## 🧩 Folder Structure
-
-
 
 # 🌍 Live App
 Access the deployed version here:
 
-➡️ Streamlit App
+➡️ Web App: [QR Code Generator](https://qr-code-generator-by-adiii.streamlit.app)
 
 
 # 📩 Contact Form
@@ -48,11 +45,9 @@ You can open a feedback form via the "Write Here..." button within the app. It s
 # 👨‍💻 Author
 Hi, I'm **Aditya Sonone** – a passionate developer who enjoys building functional, aesthetic, and user-focused apps using Python and modern frameworks.
 
-LinkedIn: linkedin.com/in/your-profile
-[LinkedIn](https://www.linkedin.com/in/aditya-sonone/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/aditya-sonone/)
 
-GitHub: github.com/your-username
-[GitHub](https://github.com/Adityaa-Sonone)
+GitHub: [GitHub](https://github.com/Adityaa-Sonone)
 
 # 🙌 Thank You for Visiting!
 ![Thanks for Visiting](https://i.pinimg.com/originals/c2/63/d2/c263d2184f802a05ef422346a937ed1a.gif)
