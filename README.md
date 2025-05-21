@@ -32,17 +32,17 @@ Whether you need to share a link, email, Wi-Fi credentials, or event info — th
 ---
 
 
-# 🌍 Live App
+## 🌍 Live App
 Access the deployed version here:
 
 ➡️ Web App: [QR Code Generator](https://qr-code-generator-by-adiii.streamlit.app)
 
 
-# 📩 Contact Form
+## 📩 Contact Form
 You can open a feedback form via the "Write Here..." button within the app. It simulates a message submission system (email logic not implemented).
 
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 Hi, I'm **Aditya Sonone** – a passionate developer who enjoys building functional, aesthetic, and user-focused apps using Python and modern frameworks.
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aditya-sonone/)
